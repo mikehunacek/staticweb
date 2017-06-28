@@ -9,3 +9,4 @@ RUN echo 'Hi, I am in your container' \
 CMD [ "nginx", "-g", "daemon off;" ]
 
 EXPOSE 80
+#This is a change to update the file
